@@ -5,7 +5,7 @@
 
 ## Topics covered:
 
-1. [Basic Python]("./nbs/00 - Studying Mathematics with Python.ipynb")
+1. [Basic Python](nbs/00 - Studying Mathematics with Python.ipynb)
 2. [Using Sympy](./nbs/01 - Symbolic mathematics with Sympy.ipynb) for symbolic
    mathematics.
 3. [Using Numpy](./nbs/02 - Linear algebra with Numpy.ipynb) for linear algebra.
