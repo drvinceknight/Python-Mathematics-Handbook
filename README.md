@@ -1,5 +1,8 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/drvinceknight/Python-Mathematics-Handbook/master)
 
+[![Build
+Status](https://travis-ci.org/drvinceknight/Python-Mathematics-Handbook.svg?branch=master)](https://travis-ci.org/drvinceknight/Python-Mathematics-Handbook)
+
 # Doing mathematics with Python
 
 - Aimed at Mathematicians with little to no Python knowledge.
