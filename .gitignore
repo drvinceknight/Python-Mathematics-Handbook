@@ -2,4 +2,5 @@
 *tex
 *pdf
 *_files/
-nbs/data/goldbach_counts.csv
+data/goldbach_counts.csv
+.pytest_cache
