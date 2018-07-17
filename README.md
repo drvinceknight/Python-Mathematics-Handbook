@@ -11,3 +11,23 @@
 3. [Using Numpy](./nbs/02-Linear-algebra-with-Numpy.ipynb) for linear algebra.
 4. [Using Pandas](./nbs/03-Data-analysis-with-Pandas.ipynb) for basic handling
    of data.
+
+## Creating the pdfs and tex files:
+
+Create the conda environment from the file:
+
+    $ conda env create -f environment.yml
+
+Source the conda environment:
+
+    $ conda source mwp
+
+Run the following command:
+
+    $ inv main
+
+## Testing the notebooks
+
+It is possible to test that the notebooks run:
+
+    $ inv test
