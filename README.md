@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/drvinceknight/Python-Mathematics-Handbook/master)
+
 # Doing mathematics with Python
 
 - Aimed at Mathematicians with little to no Python knowledge.
@@ -20,7 +22,7 @@ Create the conda environment from the file:
 
 Source the conda environment:
 
-    $ conda source mwp
+    $ conda source pfm
 
 Run the following command:
 
